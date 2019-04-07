@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.mytest.com.mytest.controllor.QuickControlor",
+      "name": "person",
+      "type": "com.mytest.com.mytest.controllor.QuickControlor"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.mytest.com.mytest.controllor.QuickControlor",
+      "name": "person.addr",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.mytest.com.mytest.controllor.QuickControlor",
+      "name": "person.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
